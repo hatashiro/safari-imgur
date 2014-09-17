@@ -1,0 +1,9 @@
+# Client ID
+/clientid
+
+# Extension Files
+Info.plist
+Settings.plist
+
+# OS X
+.DS_Store
